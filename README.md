@@ -4,7 +4,7 @@ Cache MFA for SSH Connections via PSM for SSH Proxy - PAM Self Hosted
 
 This PowerShell script automates the process of authenticating to **CyberArk PAM Self-Hosted (PVWA)** using **LDAP credentials**, and then generates a **MFA-caching SSH private key** via the CyberArk REST API.
 
-It supports multiple SSH key formats and includes basic metadata reporting and expiration monitoring (if supported by the API).
+It supports multiple SSH key formats.
 
 ---
 
